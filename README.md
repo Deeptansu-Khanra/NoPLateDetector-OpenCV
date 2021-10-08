@@ -7,3 +7,4 @@ a folder in jpeg format.
 
 In the Virtual whiteboard we can draw in the air using markers of various colors. The code identifies the 
 markers and lets us draw while the webcam is on.
+![openCV](https://user-images.githubusercontent.com/70432589/136547912-06ce5582-ef03-4af0-9aeb-dda148ffbfad.png)
